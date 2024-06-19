@@ -11,7 +11,7 @@ Water tracker app helps you with daily reminder to drink water and it is free wi
 
 # Libraries:
 
--  Jetpack
+- Jetpack
 Navigation
 LiveData
 Lifecycle
@@ -25,7 +25,7 @@ Android-ProgressViews
 SwitchButton
 MPAndroidChart
 Scalable size unit
--  Other
+- Other
 Firebase analytics & crashlytics
 Timber
 Admob
