@@ -17,20 +17,20 @@ Water tracker app helps you with daily reminder to drink water and it is free wi
    - Lifecycle
    - ViewModel
    - Room
-2. UI
-   - 
-Material design
-BubbleSeekBar
-RadioRealButton
-Android-ProgressViews
-SwitchButton
-MPAndroidChart
-Scalable size unit
-- Other
-Firebase analytics & crashlytics
-Timber
-Admob
-Android-RateThisApp
+2. Jetpack
+   - Material design
+   - BubbleSeekBar
+   - RadioRealButton
+   - Android-ProgressViews
+   - SwitchButton
+   - MPAndroidChart
+   - Scalable size unit
+3. Other
+   - Firebase analytics & crashlytics
+   - Timber
+   - Admob
+   - Android-RateThisApp
+
 ## Upcoming improvements & bug fixes
 Tests
 
